@@ -1,0 +1,68 @@
+p {
+  line-height: 2rem;
+}
+#logistic {
+  color: black;
+}
+#shipment {
+  font-style: oblique;
+  font-weight: bolder;
+  font-size: 20px;
+}
+#companies {
+  color: rgb(95, 175, 151);
+  font-size: 20px;
+  text-align: center;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+#title {
+  text-shadow: 7px 4px 5px rgb(95, 175, 151);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: inherit;
+  margin-left: 7%;
+}
+.steps {
+  background-color: #26a69a;
+  font-family: verdana;
+  font-size: 26px;
+  color: white;
+  padding: 15px;
+  padding-left: 35px;
+}
+.step-left {
+  display: flex;
+  font-size: 20px;
+  padding-right: 30px;
+}
+.step-left img {
+  height: 200px;
+  width: 350px;
+  padding-left: 50px;
+  padding-right: 100px;
+}
+.step-right {
+  display: flex;
+  font-size: 20px;
+  padding-left: 30px;
+}
+.step-right img {
+  height: 200px;
+  width: 350px;
+  padding-right: 50px;
+  padding-left: 100px;
+  padding-top: 10px;
+  align-content: flex-end;
+}
+.message {
+  text-align: center;
+  color: black;
+}
+.shipping-receipt{
+   height: 710px;
+   padding-top: 20px;
+
+}
+
+
